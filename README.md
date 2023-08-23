@@ -9,11 +9,11 @@
 ***[GET](https://dashboard.render.com/)***
 
 ### Add Config Vars
-1.```SESSION_ID```***Session ID***
-2.```POSTGRESQL_URL```***POSTGRESQL url***
-3.```LANG```***SI OR EN***
-4.```ANTI_BAD```***true Or false***
-5.```ANTI_LINK```***true Or false***
+1. ```SESSION_ID```***Session ID***
+2. ```POSTGRESQL_URL```***POSTGRESQL url***
+3. ```LANG```***SI OR EN***
+4. ```ANTI_BAD```***true Or false***
+5. ```ANTI_LINK```***true Or false***
 
 ### Deploy
 1. ***Deploy on heroku [Tutorial]().***
