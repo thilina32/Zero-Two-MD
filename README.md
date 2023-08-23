@@ -8,6 +8,9 @@
 ### Get DB Url
 ***[GET](https://dashboard.render.com/)***
 
+### Add Config Vars
+1.```SESSION_ID```***Session ID***
+
 ### Deploy
 1. ***Deploy on heroku [Tutorial]().***
 
