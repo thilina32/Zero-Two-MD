@@ -14,6 +14,10 @@
 3. ```LANG```***SI OR EN***
 4. ```ANTI_BAD```***true Or false***
 5. ```ANTI_LINK```***true Or false***
+6. ```ANTI_BOT```***true Or false***
+7. ```ALIVE```***default Or youre alive***
+8. ```FOOTER```***Youre name***
+9. ```LOGO```***Youre logo url***
 
 ### Deploy
 1. ***Deploy on heroku [Tutorial]().***
