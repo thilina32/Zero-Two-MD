@@ -15,9 +15,10 @@
 4. ```ANTI_BAD```***true Or false***
 5. ```ANTI_LINK```***true Or false***
 6. ```ANTI_BOT```***true Or false***
-7. ```ALIVE```***default Or youre alive***
-8. ```FOOTER```***Youre name***
-9. ```LOGO```***Youre logo url***
+7. ```ONLY_GROUP```***true Or false***
+8. ```ALIVE```***default Or youre alive***
+9. ```FOOTER```***Youre name***
+10. ```LOGO```***Youre logo url***
 
 ### Deploy
 1. ***Deploy on heroku [Tutorial](https://www.youtube.com/watch?v=ZX_uCZXNHbk).***
