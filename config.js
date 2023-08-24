@@ -8,7 +8,7 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || 'youre session id',
 POSTGRESQL_URL: process.env.POSTGRESQL_URL || 'youre POSTGRESQL url',
-LANG: process.env.LANG || 'EN' ,
+LANG: process.env.BOT_LANG || 'EN' ,
 ANTI_BAD: process.env.ANTI_BAD || 'false',
 MAX_SIZE: process.env.MAX_SIZE || 200,
 ONLY_GROUP: process.env.ONLY_GROUP || 'false',
