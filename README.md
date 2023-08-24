@@ -20,6 +20,6 @@
 9. ```LOGO```***Youre logo url***
 
 ### Deploy
-1. ***Deploy on heroku [Tutorial]().***
+1. ***Deploy on heroku [Tutorial](https://www.youtube.com/watch?v=ZX_uCZXNHbk).***
 
    ```Thanks Fro using Zero-Two-MD```
